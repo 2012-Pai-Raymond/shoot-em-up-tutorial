@@ -50,8 +50,9 @@ ExportedObj/
 *.VC.db
 
 # Visual Scripting auto-generated assets
-+/Assets/Unity.VisualScripting.Generated/
-+Assets/Unity.VisualSripting.Generated.meta
+/Assets/Unity.VisualScripting.Generated/
+Assets/Unity.VisualSripting.Generated.meta
+*.DS_Store
 
 # Unity3D generated meta files
 *.pidb.meta
